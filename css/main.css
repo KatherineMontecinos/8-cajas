@@ -1,0 +1,20 @@
+div {
+	background-color: gray;
+	height: 170px;
+	width: 170px;
+	border-color: black;
+	border: 1px solid;
+	margin: 10px;
+}
+
+.contenedor {
+	width: 600px;
+	height: 200px;
+	padding: 5px;
+
+}
+
+.interior {
+	display: inline-block;
+	padding: 2px;
+}
